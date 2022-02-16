@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce518e68-b127-45e8-8768-a490ed0d08a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="24vt7zdNpePS9VoUkETZ4rXYeGP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Jest.should delete a node successfully">
+    <configuration name="should delete a node successfully" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/binary-search-tree.test.ts" />
+      <test-names>
+        <test-name value="should delete a node successfully" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="should display inorder traversal" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/binary-search-tree.test.ts" />
+      <test-names>
+        <test-name value="should display inorder traversal" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="should return tree when calling BinarySearchTree()" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/binary-search-tree.test.ts" />
+      <test-names>
+        <test-name value="should return tree when calling BinarySearchTree()" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.should delete a node successfully" />
+        <item itemvalue="Jest.should display inorder traversal" />
+        <item itemvalue="Jest.should return tree when calling BinarySearchTree()" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce518e68-b127-45e8-8768-a490ed0d08a9" name="Default Changelist" comment="" />
+      <created>1644522724949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644522724949</updated>
+      <workItem from="1644522726103" duration="2663000" />
+      <workItem from="1644562077820" duration="1417000" />
+      <workItem from="1644572076447" duration="4042000" />
+      <workItem from="1644863801441" duration="485000" />
+      <workItem from="1644935483328" duration="310000" />
+      <workItem from="1645028893540" duration="2309000" />
+      <workItem from="1645041123037" duration="2033000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1143" y="616" key="#ESLint" timestamp="1644522745710">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1143" y="616" key="#ESLint/0.0.2560.1440/2560.151.1920.1055@0.0.2560.1440" timestamp="1644522745710" />
+    <state width="654" height="466" key="DebuggerActiveHint" timestamp="1645042435123">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="654" height="466" key="DebuggerActiveHint/0.0.2560.1440/2560.151.1920.1055@0.0.2560.1440" timestamp="1645042435123" />
+    <state width="2518" height="392" key="GridCell.Tab.0.bottom" timestamp="1645042887476">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.0.bottom/0.0.2560.1440/2560.151.1920.1055@0.0.2560.1440" timestamp="1645042887476" />
+    <state width="2518" height="424" key="GridCell.Tab.0.bottom/0.25.2560.1415/2560.151.1920.1055@0.25.2560.1415" timestamp="1644526428794" />
+    <state width="2518" height="392" key="GridCell.Tab.0.center" timestamp="1645042887476">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.0.center/0.0.2560.1440/2560.151.1920.1055@0.0.2560.1440" timestamp="1645042887476" />
+    <state width="2518" height="424" key="GridCell.Tab.0.center/0.25.2560.1415/2560.151.1920.1055@0.25.2560.1415" timestamp="1644526428793" />
+    <state width="2518" height="392" key="GridCell.Tab.0.left" timestamp="1645042887476">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.0.left/0.0.2560.1440/2560.151.1920.1055@0.0.2560.1440" timestamp="1645042887476" />
+    <state width="2518" height="424" key="GridCell.Tab.0.left/0.25.2560.1415/2560.151.1920.1055@0.25.2560.1415" timestamp="1644526428793" />
+    <state width="2518" height="392" key="GridCell.Tab.0.right" timestamp="1645042887476">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="392" key="GridCell.Tab.0.right/0.0.2560.1440/2560.151.1920.1055@0.0.2560.1440" timestamp="1645042887476" />
+    <state width="2518" height="424" key="GridCell.Tab.0.right/0.25.2560.1415/2560.151.1920.1055@0.25.2560.1415" timestamp="1644526428793" />
+    <state width="2518" height="520" key="GridCell.Tab.1.bottom" timestamp="1645042773393">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.1.bottom/0.0.2560.1440/2560.151.1920.1055@0.0.2560.1440" timestamp="1645042773393" />
+    <state width="2518" height="520" key="GridCell.Tab.1.center" timestamp="1645042773392">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.1.center/0.0.2560.1440/2560.151.1920.1055@0.0.2560.1440" timestamp="1645042773392" />
+    <state width="2518" height="520" key="GridCell.Tab.1.left" timestamp="1645042773392">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.1.left/0.0.2560.1440/2560.151.1920.1055@0.0.2560.1440" timestamp="1645042773392" />
+    <state width="2518" height="520" key="GridCell.Tab.1.right" timestamp="1645042773393">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.1.right/0.0.2560.1440/2560.151.1920.1055@0.0.2560.1440" timestamp="1645042773393" />
+    <state width="2518" height="520" key="GridCell.Tab.2.bottom" timestamp="1645042773393">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.2.bottom/0.0.2560.1440/2560.151.1920.1055@0.0.2560.1440" timestamp="1645042773393" />
+    <state width="2518" height="520" key="GridCell.Tab.2.center" timestamp="1645042773393">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.2.center/0.0.2560.1440/2560.151.1920.1055@0.0.2560.1440" timestamp="1645042773393" />
+    <state width="2518" height="520" key="GridCell.Tab.2.left" timestamp="1645042773393">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.2.left/0.0.2560.1440/2560.151.1920.1055@0.0.2560.1440" timestamp="1645042773393" />
+    <state width="2518" height="520" key="GridCell.Tab.2.right" timestamp="1645042773393">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.2.right/0.0.2560.1440/2560.151.1920.1055@0.0.2560.1440" timestamp="1645042773393" />
+    <state width="2518" height="520" key="GridCell.Tab.3.bottom" timestamp="1645042773394">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.3.bottom/0.0.2560.1440/2560.151.1920.1055@0.0.2560.1440" timestamp="1645042773394" />
+    <state width="2518" height="520" key="GridCell.Tab.3.center" timestamp="1645042773394">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.3.center/0.0.2560.1440/2560.151.1920.1055@0.0.2560.1440" timestamp="1645042773394" />
+    <state width="2518" height="520" key="GridCell.Tab.3.left" timestamp="1645042773394">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.3.left/0.0.2560.1440/2560.151.1920.1055@0.0.2560.1440" timestamp="1645042773394" />
+    <state width="2518" height="520" key="GridCell.Tab.3.right" timestamp="1645042773394">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.3.right/0.0.2560.1440/2560.151.1920.1055@0.0.2560.1440" timestamp="1645042773394" />
+    <state x="789" y="356" key="SettingsEditor" timestamp="1644524005586">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="789" y="356" key="SettingsEditor/0.0.2560.1440/2560.151.1920.1055@0.0.2560.1440" timestamp="1644524005586" />
+  </component>
+</project>
